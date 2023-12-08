@@ -2,7 +2,7 @@
 This project emulates Nojoom Fm radio station
 Running Singer photos on the TFT, his name on LED MATRIX, and its music using the DAC all that simutanously
 
-##Components:
+## Components:
 • STM32F4
 • LED Matrix
 • LEDs
@@ -11,7 +11,7 @@ Running Singer photos on the TFT, his name on LED MATRIX, and its music using th
 • IR
 • STP
 
-##Drivers:
+## Drivers:
 • RCC
 • GPIO
 • SYSTICK
