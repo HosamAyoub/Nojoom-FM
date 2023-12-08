@@ -12,7 +12,7 @@ Running Singer photos on the TFT, his name on LED MATRIX, and its music using th
 * STP
 
 ## Drivers:
-• RCC
+* RCC
 * GPIO
 * SYSTICK
 * NVIC
